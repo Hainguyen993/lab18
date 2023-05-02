@@ -18,7 +18,7 @@
   background-image: url("https://znews-photo.zingcdn.me/w1920/Uploaded/qhj_yvobvhfwbv/2018_07_18/Le_Viet_Khanh.jpg");
 }
 [class*="bg-img"] {
-  height: 400px;
+  height: 800px;
 }
 .bri {
   content: "";
