@@ -23,7 +23,7 @@
 .bri {
   content: "";
   position: absolute;
-  height: 400px;
+  height: 800px;
   width: 100%;
   background-color: rgba(0, 0, 0, 0.375);
 }
