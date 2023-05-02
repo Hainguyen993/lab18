@@ -1,23 +1,16 @@
 .bg-img1 {
-  /* content: ""; */
-  /* height: 400px; */
-
-  background-size: cover;
   background-image: url("https://znews-photo.zingcdn.me/w1920/Uploaded/qhj_yvobvhfwbv/2018_07_18/Nguyen_Huy_Binh1.jpg");
 }
 .bg-img2 {
-  content: "";
-
-  background-size: cover;
-
   background-image: url("https://znews-photo.zingcdn.me/w1920/Uploaded/qhj_yvobvhfwbv/2018_07_18/Bui_Viet_Duc_3.jpg");
 }
 .bg-img3 {
-  /* content: ""; */
-  background-size: cover;
   background-image: url("https://znews-photo.zingcdn.me/w1920/Uploaded/qhj_yvobvhfwbv/2018_07_18/Le_Viet_Khanh.jpg");
 }
 [class*="bg-img"] {
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
   height: 800px;
 }
 .bri {
